@@ -1,5 +1,7 @@
 # ECG-recognition
 This project is the ECG recognition, which is that we collect the dog's ECG photos and identify the photo is which dog.
+
+## Steps
 ![image](https://github.com/Tzu-Jung/ECG-recognition/blob/main/1.PNG)
 ![image](https://github.com/Tzu-Jung/ECG-recognition/blob/main/2.PNG)
 ## First
